@@ -1,0 +1,2 @@
+1- npm init -y    (to initiate node application)
+2- npm i aws-sdk dotenv   (to install packages for aws-sdk and dotenv)
